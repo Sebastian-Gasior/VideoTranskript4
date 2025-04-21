@@ -1,9 +1,21 @@
-Analysiere den folgenden Transkript und erstelle:
+Analysiere das folgende Transkript und erstelle drei separate Abschnitte:
 
-1. Eine kurze Zusammenfassung (max. 3 Sätze)
-2. Die wichtigsten Kernaussagen (max. 5 Punkte)
-3. Eine Empfehlung für Social Media Posts (Twitter & LinkedIn)
-4. Eine englische Übersetzung der Zusammenfassung
+1. DEUTSCHE ZUSAMMENFASSUNG
+    Erstelle eine prägnante Zusammenfassung (ca. 150 Wörter)
+    Hebe die wichtigsten Kernaussagen hervor
+    Verwende einen sachlichen, professionellen Stil
 
-Transkript:
+2. LINKEDIN FEED
+    Verfasse einen ansprechenden LinkedIn‑Feed‑Beitrag im typischen Stil (knapp, beruflich, gut lesbar; bis zu 1 300 Zeichen)
+    Nutze 1–3 passende, branchenübliche Hashtags
+    Halte den Ton professionell und einladend
+
+3. DEUTSCHE ÜBERSETZUNG
+    Übersetze das Original‑Transkript ins Deutsche
+    Behalte dabei den professionellen Stil bei
+    Achte auf korrekte Fachbegriffe
+
+TRANSKRIPT:
 {transcript}
+
+Bitte strukturiere die Antwort klar mit den drei Überschriften und achte auf einheitliche Formatierung.
