@@ -1,0 +1,11 @@
+# Fügen Sie hier Ihre Video-URLs ein (eine pro Zeile)
+# Unterstützt werden YouTube-URLs und lokale Dateipfade
+# Kommentare beginnen mit #
+
+# Beispiel YouTube URLs:
+# https://www.youtube.com/watch?v=example1
+# https://www.youtube.com/watch?v=example2
+
+# Beispiel lokale Dateien:
+# C:/Videos/presentation.mp4
+# /home/user/videos/speech.wav
