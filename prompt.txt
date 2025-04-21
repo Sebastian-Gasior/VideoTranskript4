@@ -1,0 +1,9 @@
+Analysiere den folgenden Transkript und erstelle:
+
+1. Eine kurze Zusammenfassung (max. 3 Sätze)
+2. Die wichtigsten Kernaussagen (max. 5 Punkte)
+3. Eine Empfehlung für Social Media Posts (Twitter & LinkedIn)
+4. Eine englische Übersetzung der Zusammenfassung
+
+Transkript:
+{transcript}
